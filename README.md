@@ -1,7 +1,7 @@
 ## Abstract
 In today’s world, news recommendation systems play a big role in what we read and how we interact with news. Every time we open a news app, it suggests articles based on our previous activity. But what happens when someone is new to the platform and hasn’t clicked on many articles yet? This situation, known as the "cold-start problem," is challenging because the recommendation system doesn’t have much information to go on.
 
-Our project uses a dataset from Microsoft News called MIND to dig into this issue. We want to understand how well the recommendation system engages new users, how their preferences start to form, and if there’s a risk of showing them a narrow range of content—creating what's called an “echo chamber.” By analyzing click-through rates (how often users click on recommended articles), the emotional tone of articles, and content preferences, we aim to find patterns that could improve the recommendation system. Our goal is to make recommendations more relevant, encourage users to explore a diverse mix of news, and help retain users over time.
+Our project uses a dataset from Microsoft News called MIND to dig into this issue. We want to understand how well the recommendation system engages new users, how their preferences start to form, and if there’s a risk of showing them a narrow range of content. By analyzing click-through rates (how often users click on recommended articles), the emotional tone of articles, and content preferences, we aim to find patterns that could improve the recommendation system. Our goal is to make recommendations more relevant, encourage users to explore a diverse mix of news, and help retain users over time.
 
 
 ## Project Background
