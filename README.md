@@ -26,7 +26,8 @@ Gain insights into user engagement patterns and assess the effectiveness of news
   * Use Vader to analyze abstracts and titles to see if users tend to pick articles that are more positive, neutral, or negative
 * Identify specific news sources and extract key words from article titles for analysis
 * Classify users into subgroups(i.e political groups, etc)
-* Analyze performance of LightFM and LSTUR recommendation models, specifically regarding users with no history vs. users with history
+* Analyze performance of LightFM and LSTUR recommendation models,
+  * Compare models regarding users with no history vs. users with history
 
 
 
