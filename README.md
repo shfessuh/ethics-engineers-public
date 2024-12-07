@@ -29,6 +29,12 @@ Gain insights into user engagement patterns and assess the effectiveness of news
 * Analyze performance of LightFM and LSTUR recommendation models,
   * Compare models regarding users with no history vs. users with history
 
+## Project conclusions:
+From our analysis, we found that LightFM was better suited for regular users with interaction histories, achieving the highest AUC of 92.7%. On the other hand, LSTUR performed consistently across both user groups and was especially helpful for new users, thanks to its ability to incorporate content-based features like titles. These findings highlight a trade-off between personalization and fairness – for regular users, LightFM provided more precise recommendations, while LSTUR offered more balanced results for new users. However, a hybrid approach that combines the strengths of both models could ensure more equitable recommendations for everyone.
 
+## Contents
+* project-ethics-engineers folder: contains code used to conduct exploratory and main analyses
+* project-reports folder: contains project reports 1-5 from throughout the quarter
+* README.md: this file
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/EqWXl6Ay)
